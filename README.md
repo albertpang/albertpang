@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertpang
-- 👀 I’m have a degree in structural engineering, and interested in architecture.
+- 👀 I’m have a degree in structural engineering, and an interest in architecture.
 - 🌱 I’m currently learning new things.
 
 <!---
